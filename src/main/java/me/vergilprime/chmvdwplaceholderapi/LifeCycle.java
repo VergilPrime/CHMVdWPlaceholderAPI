@@ -1,3 +1,5 @@
+package me.vergilprime.chmvdwplaceholderapi;
+
 import com.laytonsmith.PureUtilities.SimpleVersion;
 import com.laytonsmith.PureUtilities.Version;
 import com.laytonsmith.core.extensions.AbstractExtension;
